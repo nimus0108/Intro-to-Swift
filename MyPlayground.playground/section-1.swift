@@ -3,9 +3,9 @@
 import UIKit
 
 var str : String = "Hello, playground"
-str = "Hello world"
+str = "Hello world" // mutable - can be modified
 
-let modernProgrammingLanguage : String = "Swift"
+let modernProgrammingLanguage : String = "Swift" // immutable - cannot be modified
 
 var greeting = str + modernProgrammingLanguage
 
